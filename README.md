@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ria 👋
 
-<!--
-**ria-0704/ria-0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Science Student
+- Interested in Software Development
+- Solving DSA problems regularly
 
-Here are some ideas to get you started:
+## Tech Stack
+- c++
+- Data Structures and Algorithms
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- React(Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Improving problem solving
+- Building Projects
+- Strengthening fundamentals
